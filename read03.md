@@ -3,7 +3,7 @@
  **process and design**
  
 
- ### This section discusses a process that:
+# This section discusses a process that:
 
 - It's important to understand w XX ho your target audience
 is, why they would come to your site, what information
