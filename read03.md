@@ -1,6 +1,6 @@
 # saja alraja
 ## chapter 18
- **process and design**
+ # process and design
  
 
 # This section discusses a process that:
@@ -16,7 +16,7 @@ visitors understand what you are trying to tell them
 - You can use grouping and similarity to help simplify
 the information you present.
 # chapter1
-** structure**
+# structure
 # html use:
 + content website
 + structure website
@@ -25,7 +25,7 @@ the information you present.
 
 
 # chapter 17
-** html5 and layout**
+# html5 and layout
 #  They are covered here (rather than with the other HTML
 elements you met earlier in the book) because you'll find
 it easier to understand how they can be used now that you
@@ -36,7 +36,7 @@ new elements are going to play an important part in creating layout.
 - How to ensure older browsers recognize these elements
 
 # chapter 8
-** extra markup **
+# extra markup
 - Specifying d XX ifferent versions of HTML
 - Identifying and grouping elements
 - Comments, meta information and iframes
