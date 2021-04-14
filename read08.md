@@ -1,4 +1,4 @@
-# introduction how to computer work?
+gi# introduction how to computer work?
 ## what make acomputer?
 - A computer is an electronic machine that processes information—in other words, an information processor.
 - aking in information is called input, storing information is better known as memory (or storage), chewing information is also known as processing, and spitting out results is called output.
