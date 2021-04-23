@@ -19,9 +19,19 @@
 - comment in html :    <!-- -->
 - id attribute :    <p id ="namee" >any paragraph</p>
 - class attribute : <p class= "nameee">any paragraph</p>
-- block element : <h1> and <p> and <ul> and <li>
-- inline element : <a> and <b> and <em > and <img>
-- grouping text and element inline : <div> <span >
+- block element :
+- <h1> 
+- <p> 
+- <ul> 
+- <li>
+- inline element :
+- <a>
+- <b> 
+- <em > 
+- <img>
+- grouping text and element inline : 
+-<div>
+- <span >
 - **note** : <div> The <div> element allows you to
 group a set of elements together
 in one block-level box.
