@@ -32,15 +32,15 @@ element. It is used to either.
 - <iframe
 - width="450"
 - height="350"
-- src="http://maps.google.co.uk/maps?q=moma+new+york
-- &amp;output=embed"> </iframe >
-## why use taq meta ?
+- src="#" 
+- </iframe>.
+## why use meta ?
 - description
 - keyword
 - robots
 ## notes:
 - You can add comments to your code between the
-<!-- and --> 
+-  <!-- and --> 
 - The id and class attributes allow you to identify particular element.
 - The <div> and <span> elements allow you to group block and inline element together .
 - <iframes> cut windows into your web pages through which other page can be displayed .
@@ -53,13 +53,13 @@ element. It is used to either.
 - <h1>Yoko's Kitchen</h1>
 - <nav>
 -  <ul>
--  <li><a href="" class="current">home</a></li>
+-  <li><a href="#" home</a></li>
 
 - </nav>
 - </header>
 ### footer 
 - <footer>
-- &copy; 2011 Yoko's Kitchen
+
 - </footer>
 ### navigation
 - <nav>
