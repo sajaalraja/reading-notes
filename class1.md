@@ -30,11 +30,11 @@ an inline equivalent of the <div>
 element. It is used to either.
 - iframe : 
 - <iframe
-width="450"
-height="350"
-src="http://maps.google.co.uk/maps?q=moma+new+york
-&amp;output=embed"> </iframe >
-## why use taq <meta>:
+- width="450"
+- height="350"
+- src="http://maps.google.co.uk/maps?q=moma+new+york
+- &amp;output=embed"> </iframe >
+## why use taq meta ?
 - description
 - keyword
 - robots
