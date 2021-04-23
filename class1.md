@@ -6,15 +6,15 @@
 
 
 ## what is the structure in webpage?
-- <html >  </html>
-- <head>    </head>
--  <body>     </body>
+- <html > 
+- <head>    
+-  <body>     
 ###  example :
 -  <html>
 - <body>
- - <h1>This is the Main Heading</h1>
--  <p> any paragraph</p>
--  <h2>This is a Sub-Heading</h2>
+ - <h1>
+-  <p> 
+-  <h2>
 ## chapter 8 : extra markup 
 - comment in html :    <!-- -->
 - id attribute :    <p id ="namee" >any paragraph</p>
