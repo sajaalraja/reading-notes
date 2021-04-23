@@ -6,80 +6,60 @@
 
 
 ## what is the structure in webpage?
-- <html > 
-- <head>    
--  <body>     
-###  example :
--  <html>
-- <body>
- - <h1>
--  <p> 
--  <h2>
+- html  
+- head   
+-  body     
+
 ## chapter 8 : extra markup 
-- comment in html :    <!-- -->
-- id attribute :    <p id ="namee" >any paragraph</p>
-- class attribute : <p class= "nameee">any paragraph</p>
+
+- id attribute :    p id ="namee" 
+- class attribute : p class= "nameee" 
 - block element :
-- <h1> 
-- <p> 
-- <ul> 
-- <li>
+- h1 
+- p 
+- ul 
+- li
 - inline element :
-- <a>
-- <b> 
-- <em > 
-- <img>
+- a
+- b 
+- em 
+- img
 - grouping text and element inline : 
--<div>
-- <span >
-- **note** : <div> The <div> element allows you to
+- div
+- span
+- **note** : div The div element allows you to
 group a set of elements together
 in one block-level box.
-- **note** :The <span> element acts like
-an inline equivalent of the <div>
+- **note** :The span element acts like
+an inline equivalent of the div
 element. It is used to either.
 - iframe : 
-- <iframe
+- iframe
 - width="450"
 - height="350"
 - src="#" 
-- </iframe>.
+
 ## why use meta ?
 - description
 - keyword
 - robots
 ## notes:
 - You can add comments to your code between the
--  <!-- and --> 
+-  !-- and --
 - The id and class attributes allow you to identify particular element.
-- The <div> and <span> elements allow you to group block and inline element together .
-- <iframes> cut windows into your web pages through which other page can be displayed .
-- The <meta> tag allows you to supply all kinds of information about your webpage .
+- The div and span elements allow you to group block and inline element together .
+- iframe cut windows into your web pages through which other page can be displayed .
+- The meta tag allows you to supply all kinds of information about your webpage .
 - DOCTYPES tell browsers which version of HTML you are using .
 ## chapter 17: html layout 
 [![ html layout ](https://www.w3schools.com/html/img_sem_elements.gif)]
-### header 
-- <header>
-- <h1>Yoko's Kitchen</h1>
-- <nav>
--  <ul>
--  <li><a href="#" home</a></li>
-
-- </nav>
-- </header>
+### header : 
+- nav
+-  ul
+-  li 
+- a 
 ### footer 
-- <footer>
-
-- </footer>
-### navigation
-- <nav>
-<ul>
--  <li><a href="" class="current">home</a></li>
- 
--  <li><a href="">about</a></li>
--  <li><a href="">contact</a></li>
-- </ul>
-- </nav>
+- footer
 ### article 
 - why use article ?
 The <article> element acts as
@@ -87,10 +67,9 @@ a container for any section of a
 page that could stand alone and
 potentially be syndicated.
 - example:
-- <article >
-- <p> any paragraph</p>
-- <img src= "a.jpg" alt="" />
-- </article>
+- article : 
+- p any paragraph
+- img 
 ### section 
 - why use section ?
 - The <section> element groups
