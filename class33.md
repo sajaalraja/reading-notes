@@ -18,7 +18,7 @@ unordered, and definition.
 
 
 
- # what is the boxes?:
+ -  what is the boxes  ?:
 
 
  -  CSS treats each HTML e lement as if it has its own box.
