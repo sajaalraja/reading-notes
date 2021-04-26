@@ -14,8 +14,8 @@ unordered, and definition.
  - Unordered lists use bullets.
  - Definition lists are used to define terminology.
  - Lists can be nested inside one another.
- # boxes: 
- - CSS treats each HTML e XX lement as if it has its own box.
+ # what is the boxes?: 
+ - CSS treats each HTML e lement as if it has its own box.
 -  You can use CSS to control the dimensions of a box.
 -  You can also control the borders, margin and padding
 for each box with CSS.
