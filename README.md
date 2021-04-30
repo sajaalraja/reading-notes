@@ -13,6 +13,9 @@
 # reading-notes 201
 | read       | link    |
 | ------------- | ---------- | 
-| class1 | [link](https://sajaalraja.github.io/reading-notes/class1)   |    
-
-
+| class1 | [link](https://sajaalraja.github.io/reading-notes/class1)   |  
+ class22   |[link](https://sajaalraja.github.io/reading-notes/class22)  |
+| class33   |[link](https://sajaalraja.github.io/reading-notes/class33)  |
+| class04  |[link](https://sajaalraja.github.io/reading-notes/class04)  |
+| class05  |[link](https://sajaalraja.github.io/reading-notes/class05)  |
+| class06  |[link](https://sajaalraja.github.io/reading-notes/class06)  |
