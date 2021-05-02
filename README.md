@@ -23,3 +23,5 @@
 | class05  |[link](https://sajaalraja.github.io/reading-notes/class05)  |
 
 | class06  |[link](https://sajaalraja.github.io/reading-notes/class06)  |
+
+| class07  |[link](https://sajaalraja.github.io/reading-notes/class07)  |
