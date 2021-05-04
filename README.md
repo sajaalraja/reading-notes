@@ -27,3 +27,5 @@
 | class07  |[link](https://sajaalraja.github.io/reading-notes/class07)  |
 
 | class08  |[link](https://sajaalraja.github.io/reading-notes/class08)  |
+
+| class09  |[link](https://sajaalraja.github.io/reading-notes/class09)  |
