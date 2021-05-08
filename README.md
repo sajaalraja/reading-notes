@@ -29,3 +29,5 @@
 | class08  |[link](https://sajaalraja.github.io/reading-notes/class08)  |
 
 | class09  |[link](https://sajaalraja.github.io/reading-notes/class09)  |
+
+| class010 |[link](https://sajaalraja.github.io/reading-notes/class010)  |
