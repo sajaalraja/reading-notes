@@ -40,3 +40,7 @@
 
 
 | clas14 |[link](https://sajaalraja.github.io/reading-notes/class14)  |
+
+
+| clas14b |[link](https://sajaalraja.github.io/reading-notes/class14b)  |
+
