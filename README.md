@@ -47,3 +47,5 @@
 # reading-notes 301
 
 | readd101 | [link](https://sajaalraja.github.io/reading-notes/readd101)   | 
+
+| read102 | [link](https://sajaalraja.github.io/reading-notes/read102)   | 
