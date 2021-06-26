@@ -55,3 +55,5 @@
 | read104 | [link](https://sajaalraja.github.io/reading-notes/read104)   | 
 
 | read105| [link](https://sajaalraja.github.io/reading-notes/read105)   | 
+
+| read106| [link](https://sajaalraja.github.io/reading-notes/read106)   | 
